@@ -1,11 +1,11 @@
-#一.下載 anydesk
+# 一、下載 anydesk
 
 https://anydesk.com/zhs
 IPC AnyDesk
       ID: 876 250 353
       PWD: Siwei@MX2019
 
-#二.下載csv
+# 二、下載csv
 
 a.於開始列表選擇 TablePlus
  
@@ -25,7 +25,7 @@ d. anydesk傳送 csv 到本地端
  
 
  
-#三.取得所需日期的 csv
+# 三、取得所需日期的 csv
 
 a開啟 google 試算表
 
@@ -55,15 +55,15 @@ csv 時先需扣8 小時
 e. 在將其下載成 csv
  
 
-#四 下載四維在 google drive 提供的 指紋機人員名單xlsx 
+# 四、下載四維在 google drive 提供的 指紋機人員名單xlsx 
  
 
 
-#五.下載轉換程式
+# 五、下載轉換程式
 https://drive.google.com/file/d/1EonJ2zRDigW8V0aBHmPVefIW6FnWoLRq/view?usp=sharing
  
 
-#六.轉換報表
+# 六、轉換報表
 使用指令台進入到 report_tool 
 a.	npm install
 b.	安裝nodejs
