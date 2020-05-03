@@ -1,3 +1,6 @@
+# 相關文件
+https://docs.google.com/document/d/14XeMeA-FmVsn4_EVCT497dvmW6gQQAVxnu9N6pGvGig/edit?usp=sharing
+
 # 一、下載 anydesk
 
 https://anydesk.com/zhs
