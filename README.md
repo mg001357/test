@@ -65,12 +65,12 @@ https://drive.google.com/file/d/1EonJ2zRDigW8V0aBHmPVefIW6FnWoLRq/view?usp=shari
  
 
 # 六、轉換報表
-使用指令台進入到 report_tool 
-a.	npm install
-b.	安裝nodejs
+使用指令台進入到 report_tool  
+a.	npm install  
+b.	安裝nodejs  
 c.	執行 node index.js report -r attendamce.csx  -l member.xlsx  
-attendamce.csx 為步驟三取得csv
-member.xlsx 為步驟四取得xlse
+attendamce.csx 為步驟三取得csv  
+member.xlsx 為步驟四取得xlse  
  
-d.	查看 output 目錄取得報表
+d.	查看 output 目錄取得報表  
  
